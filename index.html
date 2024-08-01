@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bionaz Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav id="navbar">
+        <div class="container">
+            <h1>Bionaz Store</h1>
+        </div>
+    </nav>
+    <div class="header">
+        <h2>Pembelian aman dan terpercaya</h2>
+    </div>
+    <div class="content">
+        <h3>Kuota Internet</h3>
+        <div class="operator-buttons">
+            <button onclick="selectOperator('Telkomsel')">Telkomsel</button>
+            <button onclick="selectOperator('Indosat')">Indosat</button>
+            <button onclick="selectOperator('XL')">XL</button>
+            <button onclick="selectOperator('Tri')">Tri</button>
+            <button onclick="selectOperator('Smartfren')">Smartfren</button>
+        </div>
+        <h3>Pulsa Pascabayar</h3>
+        <div class="operator-buttons">
+            <button onclick="selectPulsa('Telkomsel')">Telkomsel</button>
+            <button onclick="selectPulsa('Indosat')">Indosat</button>
+            <button onclick="selectPulsa('XL')">XL</button>
+            <button onclick="selectPulsa('Tri')">Tri</button>
+            <button onclick="selectPulsa('Smartfren')">Smartfren</button>
+        </div>
+    </div>
+    <div id="purchase-section" class="purchase-section"></div>
+    <script src="scripts.js"></script>
+</body>
+</html>
