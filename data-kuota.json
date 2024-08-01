@@ -1,0 +1,154 @@
+{
+  "Indosat": {
+    "Only4You": [{
+      "tersedia": true
+    }],
+    "Kuota Harian (Yellow)": [{
+      "kuota": "1 GB",
+      "expired": "7 Hari",
+      "deskripsi": "Kuota Utama (Promo)",
+      "harga": "Rp 6.260",
+      "tersedia": true
+    },
+      {
+        "kuota": "1 GB",
+        "expired": "7 Hari",
+        "deskripsi": "Kuota Utama",
+        "harga": "Rp 6.805",
+        "tersedia": true
+      },
+      {
+        "kuota": "1 GB",
+        "expired": "15 Hari",
+        "deskripsi": "Kuota Utama (Promo)",
+        "harga": "Rp 6.980",
+        "tersedia": true
+      },
+      {
+        "kuota": "1 GB",
+        "expired": "15 Hari",
+        "deskripsi": "Kuota Utama",
+        "harga": "Rp 7.805",
+        "tersedia": true
+      }],
+    "Kuota Harian (Freedom Harian)": [{
+      "kuota": "2.5 GB",
+      "expired": "5 Hari",
+      "deskripsi": "Kuota Utama (Wajib Unreg)",
+      "harga": "Rp 11.674",
+      "tersedia": true
+    },
+      {
+        "kuota": "2.5 GB",
+        "expired": "5 Hari",
+        "deskripsi": "Kuota Utama",
+        "harga": "Rp 12.673",
+        "tersedia": true
+      },
+      {
+        "kuota": "5 GB",
+        "expired": "5 Hari",
+        "deskripsi": "Kuota Utama",
+        "harga": "Rp 16.949",
+        "tersedia": true
+      },
+      {
+        "kuota": "7 GB",
+        "expired": "7 Hari",
+        "deskripsi": "Kuota Utama",
+        "harga": "Rp 23.355",
+        "tersedia": true
+      }],
+    "Kuota Harian (Freedom Mini)": [{
+      "kuota": "2.5 GB",
+      "expired": "5 Hari",
+      "deskripsi": "Kuota Utama hanya berlaku di wilayah saat pembelian kuota ini (Wajib Unreg)",
+      "harga": "Rp 10.999",
+      "tersedia": true
+    },
+      {
+        "kuota": "7 GB",
+        "expired": "5 Hari",
+        "deskripsi": "Kuota Utama hanya berlaku di wilayah saat pembelian kuota ini",
+        "harga": "Rp 18.809",
+        "tersedia": true
+      },
+      {
+        "kuota": "7 GB",
+        "expired": "7 Hari",
+        "deskripsi": "Kuota Utama hanya berlaku di wilayah saat pembelian kuota ini",
+        "harga": "Rp 22.549",
+        "tersedia": true
+      }],
+    "Kuota Bulanan (Old Freedom)": [{
+      "kuota": "3 GB",
+      "expired": "30 Hari",
+      "deskripsi": "Kuota Utama ",
+      "harga": "Rp 20.699",
+      "tersedia": true
+    },
+      {
+        "kuota": "5.5 GB",
+        "expired": "30 Hari",
+        "deskripsi": "Kuota Utama ",
+        "harga": "Rp 31.000",
+        "tersedia": true
+      },
+      {
+        "kuota": "6.5 GB",
+        "expired": "30 Hari",
+        "deskripsi": "Kuota Utama ",
+        "harga": "Rp 36.800",
+        "tersedia": true
+      },
+      {
+        "kuota": "8 GB",
+        "expired": "30 Hari",
+        "deskripsi": "Kuota Utama ",
+        "harga": "Rp 43.249",
+        "tersedia": true
+      },
+      {
+        "kuota": "16 GB",
+        "expired": "30 Hari",
+        "deskripsi": "Kuota Utama ",
+        "harga": "Rp 64.249",
+        "tersedia": true
+      }],
+    "Kuota Bulanan (Mini Kuota)":[{
+      "kuota": "3 GB",
+      "expired": "30 Hari",
+      "deskripsi": "Kuota Utama (Reward melalui MyIM3",
+      "harga": "Rp 20.978",
+      "tersedia": true
+    },
+      {
+        "kuota": "5 GB",
+        "expired": "30 Hari",
+        "deskripsi": "Kuota Utama (Reward melalui MyIM3",
+        "harga": "Rp 29.175",
+        "tersedia": true
+      },
+      {
+        "kuota": "7 GB",
+        "expired": "30 Hari",
+        "deskripsi": "Kuota Utama (Reward melalui MyIM3",
+        "harga": "Rp 34.175",
+        "tersedia": true
+      },
+      {
+        "kuota": "12 GB",
+        "expired": "30 Hari",
+        "deskripsi": "Kuota Utama (Reward melalui MyIM3",
+        "harga": "Rp 49.500",
+        "tersedia": true
+      },
+      {
+        "kuota": "25 GB",
+        "expired": "30 Hari",
+        "deskripsi": "Kuota Utama (Reward melalui MyIM3",
+        "harga": "Rp 65.724",
+        "tersedia": true
+      }]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "Indosat": [{
+    "pulsa": "5.000",
+    "harga": "Rp 5.775",
+    "tersedia": true
+  },
+    {
+      "pulsa": "10.000",
+      "harga": "Rp 10.775",
+      "tersedia": true
+    },
+    {
+      "pulsa": "12.000",
+      "harga": "Rp 12.090",
+      "tersedia": true
+    },
+    {
+      "pulsa": "15.000",
+      "harga": "Rp 14.890",
+      "tersedia": true
+    },
+    {
+      "pulsa": "20.000",
+      "harga": "Rp 19.910",
+      "tersedia": true
+    },
+    {
+      "pulsa": "25.000",
+      "harga": "Rp 24.860",
+      "tersedia": true
+    },
+    {
+      "pulsa": "30.000",
+      "harga": "Rp 29.800",
+      "tersedia": true
+    },
+    {
+      "pulsa": "40.000",
+      "harga": "Rp 39.699",
+      "tersedia": true
+    },
+    {
+      "pulsa": "50.000",
+      "harga": "Rp 49.560",
+      "tersedia": true
+    },
+    {
+      "pulsa": "60.000",
+      "harga": "Rp 59.000",
+      "tersedia": true
+    },
+    {
+
+      "pulsa": "70.000",
+      "harga": "Rp 69.100",
+      "tersedia": true
+    },
+    {
+      "pulsa": "80.000",
+      "harga": "Rp 79.249",
+      "tersedia": true
+    },
+    {
+      "pulsa": "90.000",
+      "harga": "Rp 87.975",
+      "tersedia": true
+    },
+    {
+      "pulsa": "100.000",
+      "harga": "Rp 98.100",
+      "tersedia": true
+    }]
+}
